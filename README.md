@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my personal project
   
-  [Prenatal Treasures](https://github.com/sunnywoka/prenatal-treasures), I create a user-friendly app to help prepare for our new-born, streamlining item tracking for my family.
+  [Prenatal Treasures](https://github.com/sunnywoka/prenatal-treasures), I create a user-friendly app to help prepare for our newborn, streamlining item tracking for my family.
   
 
 - 🌱 I’m currently learning
@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at
 
-  [My Profolio](https://sunnywoka.github.io/)
+  [My Portfolio](https://sunnywoka.github.io/)
   
 
 - 📝 I regularly write articles on
