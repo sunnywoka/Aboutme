@@ -16,7 +16,7 @@
   
 - 👯 I’m looking to collaborate on
   
-  [Clicky](https://github.com/matai-2023/clicky), I've joined the hackathon and I'm working on turning this project into a multiplayer game.
+  [Clicky](https://github.com/matai-2023/blicky), I've joined the hackathon and I'm working on turning this project into a multiplayer game.
   
 
 - 👨‍💻 All of my projects are available at
