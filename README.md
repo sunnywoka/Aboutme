@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning
   
-  **How to develop a multiplayer game**
+  **How to develop a real-time message app with socket.io**
   
 - 👯 I’m looking to collaborate on
   
@@ -31,7 +31,7 @@
 
 - 💬 Ask me about
 
-  **My final group project in Dev Academy - Clicky**, a game aimed at improving mouse-clicking accuracy and speed, I utilised React, React Query, Tailwind CSS, Playwright for testing, Auth0 for authentication, and SQLite3 for score storage. This project allowed me to learn new technologies, particularly Tailwind CSS and TDD unit testing, and honed my ability to efficiently work with and support teammates while problem-solving.
+  **My final group project in Dev Academy - Clicky**, a game aimed at improving mouse-clicking accuracy and speed, I utilised React, React Query, Tailwind CSS, Playwright for testing, Auth0 for authentication, and SQLite3 for score storage. This project allowed me to learn new technologies, particularly Tailwind CSS and TDD unit testing and honed my ability to work efficiently and support teammates while problem-solving.
   
 
 - 📫 How to reach me
